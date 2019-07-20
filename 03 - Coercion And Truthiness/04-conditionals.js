@@ -53,3 +53,15 @@ if(Boolean(30 + 20 - 50)){
 } else {
   console.log("else")
 }
+
+if((30 + 20 - 50) === 30) {
+  console.log("in the if")
+} else {
+  console.log("else")
+}
+
+if("apples" === "apples") {
+  console.log("in the if")
+} else {
+  console.log("else")
+}
