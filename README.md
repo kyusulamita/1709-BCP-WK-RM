@@ -8,15 +8,15 @@
 ## Lectures + Notes
 
 ### **01 Introduction and tidy code**
-[Live Lecture](https://youtube.com)
+[Live Lecture](https://youtu.be/XojO8Rl8pmE)
 * [01 Indenting](01-tidy-code/01-indenting.js)
 * [02 Variable Names](01-tidy-code/02-variable-names.js)
 
 ### **02 Loops And Debugging**
-[Live Lecture](https://youtube.com)
+[Live Lecture](https://youtu.be/dXfy0EoD6bQ)
 
 ### **03 Coercion and Truthiness**
-[Live Lecture](https://youtube.com)
+[Live Lecture](https://youtu.be/siYSIF4Ttjc)
 * [Explicit Coercion](03-coercion-and-truthiness/01-explicit-coercion.js)
 * [Implicit Coercion](03-coercion-and-truthiness/02-implicit-coercion.js)
 * [Implicit Coercion II](03-coercion-and-truthiness/03-implicit-coercion-II.js)
