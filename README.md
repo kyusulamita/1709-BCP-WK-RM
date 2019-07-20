@@ -10,9 +10,17 @@
 ### **01 Introduction and tidy code**
 [Live Lecture](https://youtube.com)
 * [01 Indenting](01-tidy-code/01-indenting.js)
+* [02 Variable Names](01-tidy-code/02-variable-names.js)
 
 ### **02 Loops And Debugging**
 [Live Lecture](https://youtube.com)
 
 ### **03 Coercion and Truthiness**
 [Live Lecture](https://youtube.com)
+* [Explicit Coercion](03-coercion-and-truthiness/01-explicit-coercion.js)
+* [Implicit Coercion](03-coercion-and-truthiness/02-implicit-coercion.js)
+* [Implicit Coercion II](03-coercion-and-truthiness/03-implicit-coercion-II.js)
+* [Conditionals](03-coercion-and-truthiness/04-conditionals.js)
+* [Not Operator](03-coercion-and-truthiness/05-not-operator.js)
+* [And](03-coercion-and-truthiness/06-and.js)
+* [Or](03-coercion-and-truthiness/07-or.js)
