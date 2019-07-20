@@ -10,7 +10,7 @@
 ### Lecture
 **[Live Lecture](https://youtu.be/XojO8Rl8pmE)**
 
-## Workshop + Solution
+### Workshop + Solution
 [Workshop](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dbafa468c900045db6ed/text)
 [Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text)
 
@@ -23,7 +23,7 @@
 ### Lecture
 **[Live Lecture](https://youtu.be/dXfy0EoD6bQ)**
 
-## Workshop + Solution
+### Workshop + Solution
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
 
@@ -38,7 +38,7 @@
 ### Lecture
 **[Live Lecture](https://youtu.be/siYSIF4Ttjc)**
 
-## Workshop + Solution
+### Workshop + Solution
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
