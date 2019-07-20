@@ -9,7 +9,7 @@
 
 ### **01 Introduction and tidy code**
 [Live Lecture](https://youtube.com)
-* [01 Indenting]("01 Tidy Code"/01-indenting.js)
+* [01 Indenting](01-tidy-code/01-indenting.js)
 
 ### **02 Loops And Debugging**
 [Live Lecture](https://youtube.com)
