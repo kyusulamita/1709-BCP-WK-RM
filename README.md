@@ -1,7 +1,7 @@
 # 1709-BCP-WK-RM
 
 ## Additional Resources
-* [Repl.it](repl.it) Play around with code!
+* [Repl.it](https://repl.it/repls) Play around with code!
 * [Code Visualizer](http://www.pythontutor.com/visualize.html#mode=edit) Visualize your code step by step
 
 
