@@ -22,9 +22,3 @@
 //     break;
 //   }
 // }
-
-const a = 2;
-
-const b = a + c;
-
-const c = 4;
