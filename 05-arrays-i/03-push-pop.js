@@ -5,7 +5,7 @@
   learn more: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push
 */
 // let names = ["Mr Bear", "Pusheen", "Planty"];
-// let newLength = names.push("Mr Sheep")
+// let newLength = names.push("Mr Sheep", "Theodore")
 // console.log(names);
 // console.log(newLength);
 
@@ -15,12 +15,15 @@
   it returns the removed element 
   learn more: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop
 */
-// let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
-// let mrSheep = names.pop();
-// console.log(names);
-// console.log(mrSheep);
+const names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
+let mrSheep = names.pop();
+console.log(names);
+console.log(mrSheep);
 
-
+const mr = "Mr"
+mr += " Bear";
+// const mrBear = mr + " Bear"
+// console.log(mrBear)
 /* 
   mutating an array vs reassigning
 */

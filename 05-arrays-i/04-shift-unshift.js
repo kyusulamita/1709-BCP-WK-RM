@@ -9,9 +9,12 @@
 // console.log(names);
 // console.log(newLength);
 
+// names.unshift("Theodore")
+// console.log(names)
+
 
 /* 
-  .pop removes one element from the end of the array. 
+  .shift removes one element from the front of the array. 
   it returns the removed element 
   learn more: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
 */

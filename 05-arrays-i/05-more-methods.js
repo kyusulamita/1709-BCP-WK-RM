@@ -6,9 +6,9 @@
 */
 
 // let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
-console.log(names.indexOf("Planty"));
-console.log(names.indexOf("Pusheen"));
-console.log(names.indexOf("Mr"));
+// console.log(names.indexOf("Planty"));
+// console.log(names.indexOf("Pusheen", 2));
+// console.log(names.indexOf("Mr"));
 
 
 /* 
@@ -18,7 +18,13 @@ console.log(names.indexOf("Mr"));
 
 */
 
-// let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
+let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
 console.log(names.includes("Planty"));
 console.log(names.includes("Pusheen"));
+console.log(names.includes("Pusheen", 2));
 console.log(names.includes("Mr"));
+
+
+if (!names.includes("Pusheen")){
+  console.log("does not include")
+}
