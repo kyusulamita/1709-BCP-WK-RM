@@ -7,5 +7,5 @@ If you want to run a specific file, come in here and remove the `//` from the fr
 */
 
 
-// require("./01-Indenting")
-// require("./02-Variable-Names")
+// require("./01-indenting")
+// require("./02-variable-names")

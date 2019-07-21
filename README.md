@@ -53,3 +53,40 @@
 5. [Not Operator](03-coercion-and-truthiness/05-not-operator.js)
 6. [And](03-coercion-and-truthiness/06-and.js)
 7. [Or](03-coercion-and-truthiness/07-or.js)
+
+## **04 Scope**
+### Lecture
+**[Live Lecture]() Not up yet**
+
+### Workshop + Solution
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
+
+### Notes
+1. [Global Scope](04-scope/01-global-scope.js)
+2. [Global Scope II](04-scope/02-global-scope-ii.js)
+3. [Functional Scope](04-scope/03-functional-scope.js)
+4. [Functional Scope II](04-scope/04-functional-scope-ii.js)
+6. [Functions and Parameters](04-scope/05-functions-and-parameters.js)
+6. [Nested Functions](04-scope/06-nested-functions.js)
+7. [Nested Functions II](04-scope/07-nested-functions-ii.js)
+8. [Block Scope](04-scope/08-block-scope.js)
+9. [Scope Best Practices](04-scope/09-scope-best-practices.js)
+
+## **04 Arrays II**
+### Lecture
+**[Live Lecture](https://youtu.be/siYSIF4Ttjc) Not up yet**
+
+### Workshop + Solution
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
+
+### Notes
+1. [What is an Array](06-array-i/01-what-is-an-array.js)
+2. [Array Access + Assignment](06-array-i/02-array-accessing.js)
+3. [Push + Pop](06-array-i/03-push-pop.js)
+4. [Shift + Unshift](06-array-i/04-shift-unshift.js)
+5. [More methods](06-array-i/05-more-methods.js)
+6. [Slice + Reverse](06-array-i/06-slice.js)

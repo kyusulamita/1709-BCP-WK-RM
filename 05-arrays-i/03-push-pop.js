@@ -15,22 +15,27 @@
   it returns the removed element 
   learn more: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop
 */
-const names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
-let mrSheep = names.pop();
-console.log(names);
-console.log(mrSheep);
+// const names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
+// let mrSheep = names.pop();
+// console.log(names);
+// console.log(mrSheep);
 
-const mr = "Mr"
-mr += " Bear";
+// const mr = "Mr"
+// mr += " Bear";
 // const mrBear = mr + " Bear"
 // console.log(mrBear)
 /* 
   mutating an array vs reassigning
 */
-// let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
-// while(names.length > 0){
-//   const goodbyePet = names.pop();
-//   console.log("goodbye", goodbyePet);
-// }
 
-// console.log(names)
+const names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
+// reassigning, what names is pointing
+names = [];
+
+
+while(names.length > 0){
+  const goodbyePet = names.pop();
+  console.log("goodbye", goodbyePet);
+}
+
+console.log(names)
