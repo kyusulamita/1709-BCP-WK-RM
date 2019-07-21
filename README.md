@@ -74,7 +74,7 @@
 8. [Block Scope](04-scope/08-block-scope.js)
 9. [Scope Best Practices](04-scope/09-scope-best-practices.js)
 
-## **04 Arrays II**
+## **05 Arrays I**
 ### Lecture
 **[Live Lecture](https://youtu.be/siYSIF4Ttjc) Not up yet**
 
