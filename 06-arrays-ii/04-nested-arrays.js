@@ -1,16 +1,16 @@
 // let rsvpGroups = [['Jane', 'Mel'], "Jack", ['Rohan', 'David', 'Meg']];
 
-// // // // console.log(rsvpGroups[1])// 'Jack'
-// // // // console.log(rsvpGroups[2][1])// 'David'
+// console.log(rsvpGroups[1])// 'Jack'
+// console.log(rsvpGroups[2][1])// 'David'
 
 // for (let i = 0; i < rsvpGroups.length; i++) {
 //   let element = rsvpGroups[i]; 
 
-//   // console.log(element);
-//   // check element :
-//   // if it's a string, log out elem
+// console.log(element);
+// check element :
+// if it's a string, log out elem
 
-//   // if it's an array, loop over
+// if it's an array, loop over
 
 //   if (!Array.isArray(element)){
 //     console.log(element)

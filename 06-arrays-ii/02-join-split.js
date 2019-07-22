@@ -1,10 +1,10 @@
 /* 
   .join concatenates the elements of an array into a string; 
   the original array is not changed 
-  @param seperator {string} [optional]
+  @param separator {string} [optional]
   @returns joinedStr {string}
 */
-// let names =  ['Paul', 'George', 'John', 'Ringo'];
+// let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
 // // join every element with a comma
 // let joinedString = names.join();
 
@@ -12,7 +12,7 @@
 // console.log(joinedString);
 
 
-// let names = ['Paul', 'George', 'John', 'Ringo'];
+// let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
 // // // join every element with ' and '
 // let joinedString = names.join(' and ');
 
@@ -20,7 +20,9 @@
 // console.log(joinedString);
 
 
-// let names = ['Paul', 'George', 'John', 'Ringo'];
+// if we wanted to implement `.join` on our own
+
+// let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
 // let joinedString = '';
 
 // for(let i = 0; i < names.length; i++){
@@ -42,8 +44,8 @@
 /* 
   .split 
   Adds all the elements of an array separated by the specified separator string.
-  @param seperator {string}
-  @returns seperatedArr {array}
+  @param separator {string}
+  @returns separatedArr {array}
 */
 
 // const myStr = "Paul Thomas and George Washington and John and Ringo";
@@ -52,13 +54,13 @@
 // console.log(myArr);
 
 
-let myStr = 'tacocat';
-const myArr = myStr.split("");
-console.log(myArr)
+// let myStr = 'tacocat';
+// const myArr = myStr.split("");
+// console.log(myArr)
 
-// // this can't happen if it's a string
-myArr[0] = 'L';
+// // // this can't happen if it's a string
+// myArr[0] = 'L';
 
-console.log(myArr);
-myStr = myArr.join('');
-console.log(myStr);
+// console.log(myArr);
+// myStr = myArr.join('');
+// console.log(myStr);
