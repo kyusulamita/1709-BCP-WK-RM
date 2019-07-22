@@ -59,3 +59,4 @@ for (let i = 0; i < grid.length; i++) {
     // console.log("The elem at row", i + 1, "and column", j+1, "is", elem);
   }
 }
+
