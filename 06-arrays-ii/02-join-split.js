@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 /* 
   .join concatenates the elements of an array into a string; 
   the original array is not changed 
@@ -13,7 +14,7 @@
 
 
 // let names = ["Mr Bear", "Pusheen", "Planty", "Mr Sheep"];
-// // // join every element with ' and '
+// // join every element with ' and '
 // let joinedString = names.join(' and ');
 
 // console.log(typeof joinedString);
@@ -44,23 +45,27 @@
 /* 
   .split 
   Adds all the elements of an array separated by the specified separator string.
+  This doesn't mutate the string
   @param separator {string}
   @returns separatedArr {array}
 */
 
-// const myStr = "Paul Thomas and George Washington and John and Ringo";
+// const myStr = "Mr Bear and Pusheen and Planty and Mr Sheep";
 
 // const myArr = myStr.split(' and ')
+// const myArr = myStr.split()
+// console.log(myStr);
 // console.log(myArr);
 
 
-// let myStr = 'tacocat';
-// const myArr = myStr.split("");
-// console.log(myArr)
+let myStr = 'tacocat';
+const myArr = myStr.split("");
+console.log(myArr)
 
 // // // this can't happen if it's a string
-// myArr[0] = 'L';
+myArr[0] = 'L';
+myArr[1] = 'o';
 
-// console.log(myArr);
-// myStr = myArr.join('');
-// console.log(myStr);
+console.log(myArr);
+myStr = myArr.join('');
+console.log(myStr);
