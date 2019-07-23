@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 
 /*
   .concat Combines two or more arrays
