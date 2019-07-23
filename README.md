@@ -94,7 +94,7 @@
 
 ## **06 Arrays II**
 ### Lecture
-**[Live Lecture]() Not up yet**
+**[Live Lecture](https://youtu.be/jRuFyMqquVQ)**
 
 ### Workshop + Solution
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
