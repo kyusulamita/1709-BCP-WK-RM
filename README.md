@@ -56,7 +56,7 @@
 
 ## **04 Scope**
 ### Lecture
-**[Live Lecture]() Not up yet**
+**[Live Lecture](https://youtu.be/Mrt1KtxwqMM) **
 
 ### Workshop + Solution
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
@@ -76,7 +76,7 @@
 
 ## **05 Arrays I**
 ### Lecture
-**[Live Lecture]() Not up yet**
+**[Live Lecture](https://youtu.be/WkUfSmAzLMc) **
 
 ### Workshop + Solution
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
