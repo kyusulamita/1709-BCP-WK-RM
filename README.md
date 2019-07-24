@@ -161,7 +161,7 @@
 
 ### Lecture
 
-**[Live Lecture]() NOT UPLOADED YET**
+**[Live Lecture](https://youtu.be/Q3rMQgVsz0w) Still processing**
 
 ### Workshop + Solution
 
