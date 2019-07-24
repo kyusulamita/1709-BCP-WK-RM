@@ -11,20 +11,20 @@ let pusheen = {
   colors: ['gray', 'tabby']
 };
 
-// console.log(pusheen.colors);
-// console.log(pusheen.colors[0]);
-// console.log(pusheen.colors[1]);
+console.log(pusheen.colors);
+console.log(pusheen.colors[0]);
+console.log(pusheen["colors"][1]);
 
 // let num = pusheen.age;
-const pusheenColors = pusheen.colors;
+// const pusheenColors = pusheen.colors;
 // pusheen.colors.push("Brown");
 
 // console.log(pusheen);
-console.log(pusheenColors);
-pusheenColors.push('black');
-console.log(pusheenColors);
+// console.log(pusheenColors);
+// pusheenColors.push('black');
+// console.log(pusheenColors);
 
-console.log(pusheen);
+// console.log(pusheen);
 // num++;
 // console.log(pusheenColors);
 // console.log(pusheen.colors);

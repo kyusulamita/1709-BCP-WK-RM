@@ -8,19 +8,19 @@ let pusheen = {
   favouriteColour: 'sky blue'
 };
 
-pusheen.favoriteColor = 'sky blue';
+pusheen.favoriteColor = 'baby blue';
 
 console.log(pusheen);
-// // undefined
-// pusheen.favouriteColour = undefined
+// undefined
+pusheen.favouriteColour = undefined
 
-// console.log(pusheen);
+console.log(pusheen);
 
-// delete
+// delete keyword
 
 delete pusheen.favouriteColour; // delete the key-value pair
 
-// delete pusheen['favColor'];
+delete pusheen['favColor'];
 delete pusheen['color'];
 
 console.log(pusheen);

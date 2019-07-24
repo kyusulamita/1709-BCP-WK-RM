@@ -1,25 +1,25 @@
 /* 
 
 use Object.keys() to get an array of the keys in the object 
-
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys
 */
 
-let pusheen = {
-  name: 'Pusheen',
-  age: 7,
-  color: 'gray and tabby'
-};
+// let pusheen = {
+//   name: 'Pusheen',
+//   age: 7,
+//   color: 'gray and tabby'
+// };
 
-const arrOfKeys = Object.keys(pusheen);
-console.log(arrOfKeys);
+// const arrOfKeys = Object.keys(pusheen);
+// console.log(arrOfKeys);
 
 // // key => value
-for (let i = 0; i < arrOfKeys.length; i++){
-  const key = arrOfKeys[i];
-  // console.log('The key at index i', i , "is", key);
-  const value = pusheen[key];
-  console.log("the value at", key, "is", value);
-}
+// for (let i = 0; i < arrOfKeys.length; i++){
+//   const key = arrOfKeys[i];
+//   console.log('The key at index i', i , "is", key);
+//   const value = pusheen[key];
+//   console.log("the value at", key, "is", value);
+// }
 
 /* 
 
@@ -46,9 +46,9 @@ use Object.values() to get an array of the values in the object
 
 /* 
 
-use Object.entries() to get an array of the entries in the object 
+  use Object.entries() to get an array of the entries in the object 
 
-you will get a nested array here
+  you will get a nested array here
 */
 
 // let pusheen = {
