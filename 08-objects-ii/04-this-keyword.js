@@ -5,25 +5,25 @@
 //   isHappy: true,
 //   greet: function(name){
 //     console.log(`Hello ${name}, I am Pusheen the gray and tabby cat. I am 7.`);
+//     // console.log("Hello " + name + " , I am Pusheen the gray and tabby cat. I am 7.");
+
 //   },
 //   birthYear: function(currentYear){
 //     return currentYear - 7;
 //   }
 // };
 
-// pusheen.greet("Pond");
-// pusheen.greet("Bethany");
+// pusheen.greet("Liz");
+// pusheen.greet("Paige");
 
 // pusheen.age++;
 // pusheen.age++;
 // pusheen.name = "Pusheen the Great"
 
-// pusheen.greet("Austen");
-// console.log(pusheen.age);
-/*
-fine, but kinda redundant
-*/
-// const name = "SULAMITA";
+// // console.log(JSON.stringify(pusheen, null, 2))
+// console.log(pusheen)
+// pusheen.greet("Liz");
+// pusheen.greet("Paige");
 
 // let pusheen = {
 //   name: 'Pusheen',
@@ -31,25 +31,55 @@ fine, but kinda redundant
 //   color: 'gray and tabby',
 //   isHappy: true,
 //   greet: function(name){
-//     // console.log(`Hello ${name}, I am ${this.name} the ${this.color} cat. I am ${this.age}`);
+//     console.log(`Hello ${name}, I am ${pusheen.name} the ${pusheen.color} cat. I am ${pusheen.age}.`);
+//     // console.log("Hello " + name + " , I am Pusheen the gray and tabby cat. I am 7.");
 
-//     console.log("Hello " + name + " I am " + this.name + " the " + this.color + " cat. I am " + this.age + ".");
+//   },
+//   birthYear: function(currentYear){
+//     return currentYear - 7;
+//   }
+// };
+
+// pusheen.greet("Liz");
+// pusheen.greet("Paige");
+
+// pusheen.age++;
+// pusheen.age++;
+// pusheen.name = "Pusheen the Great"
+
+// // console.log(JSON.stringify(pusheen, null, 2))
+// console.log(pusheen)
+// pusheen.greet("Liz");
+// pusheen.greet("Paige");
+
+// const name = 'Sulamita'
+
+// let pusheen = {
+//   name: 'Pusheen',
+//   age: 7,
+//   color: 'gray and tabby',
+//   isHappy: true,
+//   greet: function(name){
+//     console.log(`Hello ${name}, I am ${this.name} the ${this.color} cat. I am ${this.age}`);
+//     // console.log("Hello " + name + " I am " + this.name + " the " + this.color + " cat. I am " + this.age + ".");
 //   },
 //   birthYear: function(currentYear){
 //     // how can we change this method??
 //     return currentYear - this.age;
 //   },
 //   arrowMethod: (name) => {
-//     // this = pusheen;
-//     console.log("Hello " + name + " I am " + this.name + " the " + this.color + " cat. I am " + this.age);
+//     // this != pusheen;
+//     console.log(`Hello ${name}, I am ${this.name} the ${this.color} cat. I am ${this.age}`);
+//     // console.log("Hello " + name + " I am " + this.name + " the " + this.color + " cat. I am " + this.age);
 //   }
 
 // };
-
-// pusheen.greet("Pond");
+// pusheen.age += 10;
+// // pusheen.greet("Pond");
+// console.log(pusheen.age)
 // console.log(pusheen.birthYear(2019));
 // pusheen.arrowMethod("Christine");
-// // pusheen.greet("Mike");
+// // // pusheen.greet("Mike");
 
 // pusheen.age++;
 // pusheen.age++;
@@ -71,6 +101,7 @@ let pusheen = {
   name: 'Pusheen',
   age: 7,
   color: 'gray and tabby',
+  level: 1,
   isHappy: true,
   greet: function(name){
     console.log(`Hello ${name}, I am ${this.name} the ${this.color} cat.`);
@@ -86,42 +117,60 @@ let pusheen = {
 };
 
 
-// // const a = { a: 1 };
-// // const b = { a: 1 };
-// // console.log(a === b);
-// // console.log(a == b);
+// const a = { a: 1 };
+// const b = { a: 1 };
+// console.log(a === b);
+// console.log(a == b);
 
-// // console.log(a === a);
+// console.log(a === a);
+
 // let returnedObject = pusheen.getThis();
-// // console.log(returnedObject.name);
+// // // console.log(returnedObject.name);
 // returnedObject.name = "Sir Pusheen";
 
 // console.log(pusheen);
 
+// pusheen.levelUp = function(levels = 1){
+//   this.level += levels
+//   if (this.level > 30){
+//     this.name = "The best of all time"
+//   } 
+//   if (this.level < 20){
+//     this.name = "Pusheen"
+//   }
+//   return this.level
+// }
+
+// console.log(pusheen)
+// pusheen.levelUp(10)
+// console.log(pusheen)
+// pusheen.levelUp(20)
+// console.log(pusheen)
 // console.log(returnedObject === pusheen);
 
 const pip = {
   name: 'Pip',
   age: 5,
-  color: 'Orange'
+  color: 'Orange',
 }
 
 const mrBear = {
   name: 'Mr Bear',
   color: 'brown',
   age: 2,
-
-  // salute: function(name){
-  //   console.log(`Hello ${name}, I am ${this.name} the ${this.color} cat.`);
-  // },
+  salute: function(name){
+    console.log(`Hello ${name}, I am ${this.name} the ${this.color} animal.`);
+  },
 }
 
-pusheen.greet("Alvin")
+mrBear.salute("Nicholas")
+pip.salute = mrBear.salute
+pip.name = "Pip the little guy"
+pip.salute("Sara")
+
+
+// pusheen.greet("Alvin")
 // pip.greet = pusheen.greet;
+// pip.greet('Alvin')
 
-// // pip.greet('Sarah');
-
-mrBear.salute = pusheen.greet;
-console.log(mrBear)
-mrBear.salute("Sarah");
 
