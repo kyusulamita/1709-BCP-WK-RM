@@ -181,7 +181,7 @@
 
 ### Lecture
 
-**[Live Lecture]() N/A*
+**[Live Lecture]() N/A**
 
 ### Workshop + Solution
 

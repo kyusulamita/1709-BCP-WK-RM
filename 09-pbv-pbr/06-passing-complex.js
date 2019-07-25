@@ -30,7 +30,9 @@ function incrementAge(obj){
 }
 
 // place holder, write a function that creates a shallow copy of an object
-
+function makeShallowCopy(obj){
+  return obj;
+}
 incrementAge(pusheen);
 console.log("original", pusheen);
 incrementAge(pusheen);

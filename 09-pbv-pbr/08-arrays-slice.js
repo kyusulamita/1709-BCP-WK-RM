@@ -26,3 +26,9 @@ https://goo.gl/a8n52C
 // array1[1].push(4);
 // console.log(array2[1]);
 // console.log(array1[1] === array2[1]);
+
+
+// let array1 = [1, [2, 3]]; 
+// let array2 = [1, [2, 3]]; 
+
+// const array3 = array1.concat(array2);

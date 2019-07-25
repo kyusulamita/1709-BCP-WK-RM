@@ -7,4 +7,4 @@ americanCity.unshift('New');
 
 console.log(britishCity);
 // console.log(americanCity);
-// console.log('New', americanCity);
+console.log(americanCity);
