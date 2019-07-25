@@ -97,7 +97,7 @@
 
 ### Lecture
 
-**[Live Lecture](https://youtu.be/WkUfSmAzLMc) **
+**[Live Lecture](https://youtu.be/WkUfSmAzLMc)**
 
 ### Workshop + Solution
 
@@ -161,13 +161,13 @@
 
 ### Lecture
 
-**[Live Lecture](https://youtu.be/Q3rMQgVsz0w) Still processing**
+**[Live Lecture](https://youtu.be/Q3rMQgVsz0w)**
 
 ### Workshop + Solution
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text) Not Yet Opened
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
 
 ### Notes
 
@@ -176,3 +176,26 @@
 3. [Object Methods](08-objects-ii/03-object-methods.js)
 4. [This Keyword](08-objects-ii/04-this-keyword.js)
 5. [Calculator Example](08-objects-ii/05-calc-example.js)
+
+## **09 Pass By Value and Pass By Reference**
+
+### Lecture
+
+**[Live Lecture]() N/A*
+
+### Workshop + Solution
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62bf/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62c1/text) Not Yet Opened
+
+### Notes
+
+1. [Primitive Behavior](09-pbv-pbr/01-primitive-behavior.js)
+2. [Complex Behavior](09-pbv-pbr/02-complex-behavior.js)
+3. [Primitive](09-pbv-pbr/03-primitive.js)
+4. [Complex](09-pbv-pbr/04-complex.js)
+5. [Passing Primitive Values](09-pbv-pbr/05-passing-primitive.js)
+6. [Passing Complex Values](09-pbv-pbr/06-passing-complex.js)
+7. [Equality Operator](09-pbv-pbr/07-equality-operator.js)
+8. [Arrays Slice](09-pbv-pbr/08-arrays-slice.js)
