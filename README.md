@@ -73,7 +73,7 @@
 
 ### Lecture
 
-**[Live Lecture](https://youtu.be/Mrt1KtxwqMM) **
+**[Live Lecture](https://youtu.be/Mrt1KtxwqMM)**
 
 ### Workshop + Solution
 
