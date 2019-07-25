@@ -171,8 +171,8 @@
 
 ### Notes
 
-1. [What Are Methods](08-objects-ii/01-what-are)
-2. [Creating Methods](08-objects-ii/02-creating-methods)
-3. [Object Methods](08-objects-ii/03-object-methods)
-4. [This Keyword](08-objects-ii/04-this-keyword)
-5. [Calculator Example](08-objects-ii/05-calc-example)
+1. [What Are Methods](08-objects-ii/01-what-are.js)
+2. [Creating Methods](08-objects-ii/02-creating-methods.js)
+3. [Object Methods](08-objects-ii/03-object-methods.js)
+4. [This Keyword](08-objects-ii/04-this-keyword.js)
+5. [Calculator Example](08-objects-ii/05-calc-example.js)
