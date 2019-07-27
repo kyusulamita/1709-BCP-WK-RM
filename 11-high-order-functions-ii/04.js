@@ -26,7 +26,7 @@ greeter();
 */
 
 
-// /* ==========Example Start==========
+/* ==========Example Start==========
 
 function getGreeter() {
   // we can declare a new inner function and then return it
@@ -39,7 +39,7 @@ let greeter = getGreeter();
 console.log(greeter);
 greeter();
 
-// ====== Example End =========== */
+====== Example End =========== */
 
 
 /* 
@@ -49,19 +49,19 @@ greeter();
 */
 
 
-// /* ==========Example Start==========
+/* ==========Example Start==========
 
-// function getGreeter() {
-//   // we can declare a new inner function and then return it
-//   return function (name = "Bob", age = 12) {
-//     console.log(`Hi ${name}! You are ${age}`);
-//   }
-// }
+function getGreeter() {
+  // we can declare a new inner function and then return it
+  return function (name = "Bob", age = 12) {
+    console.log(`Hi ${name}! You are ${age}`);
+  }
+}
 
-// let greeter = getGreeter();
-// console.log(greeter);
-// greeter();
-// greeter("Sarah");
-// greeter("Sam", 30);
+let greeter = getGreeter();
+console.log(greeter);
+greeter();
+greeter("Sarah");
+greeter("Sam", 30);
 
-// ====== Example End =========== */
+====== Example End =========== */
