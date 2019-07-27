@@ -15,7 +15,7 @@ amazingArray.push(happyFunction);
 amazingArray.push(happyFunction);
 console.log(amazingArray);
 
-const elem = amazingArray[0];
-elem();
-
-// amazingArray[0]()
+// const elem = amazingArray[0];
+// elem();
+console.log(amazingArray[0])
+amazingArray[0]();

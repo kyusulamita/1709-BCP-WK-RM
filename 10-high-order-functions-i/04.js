@@ -4,7 +4,10 @@
 //   console.log(typeof value);
 // }
 // logsAType('happy string');
-
+// logsAType(true);
+// logsAType([]);
+// logsAType(null);
+// logsAType(4);
 /* 
 
 if functions are like any other value, we can pass functions into other functions, too 
@@ -16,6 +19,7 @@ functions that take a function or return a function are called"higher-order func
 // function logsAType(value) {
 //   console.log(typeof value);
 // }
+
 // function happyFunction() {
 //   console.log('I am happy!');
 // }
@@ -30,7 +34,9 @@ https://goo.gl/r7dHnj
 */
 
 function callsAFunction(anotherFunction) {
-  anotherFunction(); // invoking this time
+  // anotherFunction(); // invoking this time
+  console.log("running")
+  anotherFunction();
 }
 
 function happyFunction() {

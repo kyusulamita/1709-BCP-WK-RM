@@ -20,22 +20,30 @@
   @ returns a new array
     each element is the result of the callBackFunc
 */
+
 let bridges = ['Brooklyn', 'Golden Gate', 'London'];
 
-// function logUpperCase(elem, i, arr) {
-//   console.log(elem.toUpperCase(), `at index ${i}`);
-//   console.log(arr);
+// function logUpperCase(elem) {
+//   console.log(elem.toUpperCase());
 // }
+// function logUpperCase(bridge, i, arr) {
+//   console.log(bridge.toUpperCase(), `at index ${i}`);
+// }
+
+
 
 // function logUpperCase(elem) {
 //   console.log(elem.toUpperCase());
 //   return elem.toUpperCase();
 // }
-//arrName.
+
 // const forEachReturn = bridges.forEach(logUpperCase);
 // console.log(forEachReturn);
+
 // const mapReturn = bridges.map(logUpperCase);
 // console.log(mapReturn);
+// console.log(bridges);
+
 
 // function ourForEach(arr, callBackFunc) {
 //   for(let i = 0; i < arr.length; i++) {
@@ -58,8 +66,11 @@ let bridges = ['Brooklyn', 'Golden Gate', 'London'];
 
 const nums = [1, 2, 3, 4, 5];
 
+// function squareNum(num){
+//   return num *  num;
+// }
 
-const numsSquared = nums.map(function(num){
+const numsSquared = nums.map(function(num) {
   return num * num;
 })
 

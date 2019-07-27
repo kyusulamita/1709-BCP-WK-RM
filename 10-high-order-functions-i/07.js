@@ -7,26 +7,25 @@
 */
 
 // function callAllWith(arr, callbackFunc) {
-  
 //   for(let i = 0; i < arr.length; i++) {
 //     callbackFunc(arr[i]);
 //   };
-
 // };
-let group = ["Jane", "Jill", "Pip", "Mike"];
+// let group = ["Jane", "Jill", "Pip", "Mike"];
 
 
 // function sayByeWithName(name) {
 //   console.log("Bye, " + name + "!");
 // };
 
-callAllWith(group, sayHelloWithName);
+// callAllWith(group, sayHelloWithName);
 // callAllWith(group, sayByeWithName);
-function sayHelloWithName(name) {
-  console.log("Hello, " + name + "!");
-};
 
-const pets = ['Mr Bear', 'Pusheen', 'Sookie', 'Winkie'];
+// function sayHelloWithName(name) {
+//   console.log("Hello, " + name + "!");
+// };
+
+// const pets = ['Mr Bear', 'Pusheen', 'Sookie', 'Winkie'];
 // function petThePet(petName){
 //   console.log(`Pet ${petName}`);
 // }
@@ -51,18 +50,19 @@ function callAllWith(names, sayWithNameFunc) {
     sayWithNameFunc(names[i]);
   }
 }
+const group = ['Mr Bear', 'Pusheen', 'Sookie', 'Winkie'];
 
 // let group = ["Jane", "Jill", "Pip", "Mike"];
 
-// callAllWith(group, function (name) {
-//   console.log("Bye, " + name + "!");
-// });
+callAllWith(group, function (name) {
+  console.log("Bye, " + name + "!");
+});
 
 // callAllWith(pets, function(name){
 //   console.log(`I am anonymous, hello ${name}`);
 // });
 
-// callAllWith(pets, (name) => {
-//   console.log(`I am anonymous, hello ${name}`);
-// });
+callAllWith(group, (name) => {
+  console.log(`I am anonymous, hello ${name}`);
+});
 
