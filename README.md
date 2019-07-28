@@ -3,7 +3,19 @@
 
 ## Table of Contents
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
-2. [Loops And Debugging](#03-loops-and-debugging)
+2. [Loops And Debugging](#02-loops-and-debugging)
+3. [Coercion And Truthiness](#03-coercion-and-truthiness)
+4. [Scope](#04-scope)
+5. [Arrays I](#05-arrays-i)
+6. [Arrays II](#06-arrays-ii)
+7. [Objects I](#07-object-i)
+8. [Objects II](#08-object-ii)
+9. [Pass by value + pass by reference](#09-pass-by-value-and-pass-by-reference)
+10. [High Order Functions I](#10-high-order-functions-i)
+11. [High Order Functions II](#11-high-order-functions-ii)
+12. [Recursion I](#12-recursion-i)
+13. [Recursion II](#13-recursion-ii)
+
 
 ## Additional Resources
 
@@ -283,3 +295,18 @@
 9. [Factorial - simple recursive case](12-recursion-i/09-factorial-simple-recursive-case.js)
 10. [Factorial- solution + takeaways](12-recursion-i/10-factorial-solution-takeaways.js)
 11. [Recursion + arrays](12-recursion-i/11-recursion-and-arrays.js)
+
+
+## **12 Recursion II**
+
+### Lecture
+
+**[Live Lecture]()**
+
+### Workshop + Solution
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
+
+[Solutions](https://codepen.io/FullstackAcademy/pen/dmMOEy?editors=0010) 
+
+### Notes [Full Notes](13-recursion-ii)
