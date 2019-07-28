@@ -1,6 +1,10 @@
 
 # 1709-BCP-WK-RM
 
+## Table of Contents
+1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
+2. [Loops And Debugging](#03-loops-and-debugging)
+
 ## Additional Resources
 
 * [Repl.it](https://repl.it/repls) Play around with code!
@@ -28,7 +32,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text)
 
-### Notes
+### Notes [Full Notes])(01-tidy-code)
 
 1. [Indenting](01-tidy-code/01-indenting.js)
 2. [Variable Names](01-tidy-code/02-variable-names.js)
@@ -45,7 +49,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
 
-### Notes
+### Notes [Full Notes])(02-loops-and-debugging)
 
 1. [While Loop](02-loops-and-debugging/01-while-loop.js)
 2. [For Loop](02-loops-and-debugging/02-for-loop.js)
@@ -64,7 +68,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
-### Notes
+### Notes [Full Notes])(03-coercion-and-truthiness)
 
 1. [Explicit Coercion](03-coercion-and-truthiness/01-explicit-coercion.js)
 2. [Implicit Coercion](03-coercion-and-truthiness/02-implicit-coercion.js)
@@ -86,7 +90,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
 
-### Notes
+### Notes [Full Notes])(04-scope)
 
 1. [Global Scope](04-scope/01-global-scope.js)
 2. [Global Scope II](04-scope/02-global-scope-ii.js)
@@ -110,7 +114,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
 
-### Notes
+### Notes [Full Notes])(05-arrays-i)
 
 1. [What is an Array](05-array-i/01-what-is-an-array.js)
 2. [Array Access + Assignment](05-array-i/02-array-accessing.js)
@@ -131,7 +135,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
-### Notes
+### Notes [Full Notes])(06-array-ii)
 
 1. [Splice](06-array-ii/01-splice.js)
 2. [Join + Split](06-array-ii/02-join-split.js)
@@ -150,7 +154,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
 
-### Notes
+### Notes [Full Notes])(07-objects-i)
 
 1. [What is an Object](07-objects-i/01-what-is-an-object.js)
 2. [Create And Access](07-objects-i/02-create-and-access.js)
@@ -174,7 +178,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
 
-### Notes
+### Notes [Full Notes](08-objects-ii)
 
 1. [What Are Methods](08-objects-ii/01-what-are.js)
 2. [Creating Methods](08-objects-ii/02-creating-methods.js)
@@ -194,7 +198,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62c1/text)
 
-### Notes
+### Notes [Full Notes](09-pbv-pbr)
 
 1. [Primitive Behavior](09-pbv-pbr/01-primitive-behavior.js)
 2. [Complex Behavior](09-pbv-pbr/02-complex-behavior.js)
@@ -217,7 +221,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text)
 
-### Notes
+### Notes [Full Notes](10-high-order-functions-i)
 
 1. [Values and Arrays](10-high-order-functions-i/01-values-and-arrays.js) 
 2. [Functions And Arrays](10-high-order-functions-i/02-functions-and-arrays.js)      
@@ -242,7 +246,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text)
 
-### Notes
+### Notes [Full Notes](11-high-order-functions-ii)
 
 1. [Functions return values](11-high-order-functions-ii/01-functions-return-values.js)
 2. [Functions return functions](11-high-order-functions-ii/02-functions-return-functions.js)
@@ -267,7 +271,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text) 
 
-### Notes
+### Notes [Full Notes](12-recursion-i)
 1. [Call Stack I](12-recursion-i/01-call-stack-i.js)
 2. [Call Stack II](12-recursion-i/02-call-stack-ii.js)
 3. [Iterative Countdown](12-recursion-i/03-iterative-countdown.js)
