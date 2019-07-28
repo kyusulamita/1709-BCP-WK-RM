@@ -15,10 +15,12 @@ https://goo.gl/EpNPCt
 function countdown(num) {
   // here's our stop condition, commonly known as the 'base case'
   if (num < 1) {
+    //  there is no more work to do
     console.log('done!');
   }
   // here's our 'recursive case'
   else {
+    // num >= 1
     console.log(num);
     countdown(num - 1);
   }
@@ -55,7 +57,7 @@ function countdown(num) {
   // here's our 'recursive case'
   else {
     console.log(num);
-    countdown(num - 1);
+    countdown(num - 1); // 
   }
 }
 
@@ -64,7 +66,8 @@ function countdown(num) {
   // recursive case
   if (num >= 1){
     console.log(num);
-    countdown(num - 1);
+    countdown(num - 1); // countdown(num--); MAX CALL STACK EXCEEDED
+    // countdown(--num); //perfectly fine
   } else {
     // base case
     console.log('done!');
@@ -72,5 +75,20 @@ function countdown(num) {
 }
 
 
+/*/
 
-/*
+// use this value, and then decrement it by one
+// num--
+
+// decrement by one and then use this value
+// --num
+
+let num1 =  100;
+let num2 =  100;
+
+console.log(--num1); // 99
+console.log(num2--);  // 100
+
+
+console.log(num1); // 99
+console.log(num2);  // 99

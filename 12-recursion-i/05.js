@@ -15,3 +15,12 @@ function countdown(num) {
 }
 
 countdown(5);
+// countdown(4);
+// countdown(3);
+// countdown(2);
+//  countdown(1);
+//  countdown(0);
+//  countdown(-1);
+//  countdown(-2);
+
+

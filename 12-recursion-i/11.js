@@ -3,7 +3,7 @@
 /* if you're asked to recurse through arrays or strings, the base case often occurs when the iterable is empty or has a length of one */
 /* imagine finding the sum of numbers in an array */
 
-sumArray([4]); // if array.length === 1, the sum is easy to calculate
+// console.log(sumArray([4])); // if array.length === 1, the sum is easy to calculate
 /* if the base case required the iterable to have a length of 1 or 0, it must mean that the recursive case has to reduce the length of the iterable with every recursive call */
 
 /* note: nested arrays can be approached differently; see next unit! */
@@ -19,36 +19,39 @@ function sumArray(arr){
 /*
 how would we do this with recursion?
 
-base case -> length based
-[] => 0
-[2] => 2
+base case -> length based(0 or 1)
+[] => 0 // has no length, sum = 0
+[2] => 2  // 1 elem, sum =  elem
 
 simplest recursive case
+
+// very first element + the sum of the rest of the array 
 [2, 3] => 5
 [2, 3] => 2 + recSumArr([3]) 
 recSumArr([3]) => 3
-
 2 + 3 = 5
 
 // [1, 2, 3] =>
 // 1 + recSumArr([2, 3])
-// 1 + 2 + recSumArr([3])
+// 1 +( 2 + recSumArr([3]))
+// 1 + (2 + (3))
+// 6
 
 https://goo.gl/of193d
 */
 
-// function recSumArr(arr){
-//   if (arr.length === 0){
-//     return 0;
-//   } else if (arr.length === 1){
-//     return arr[0];
-//   } else {
-//     const firstElem = arr[0];
-//     const restOfArr = arr.slice(1);
-//     const sumOfRestOfArr = recSumArr(restOfArr);
-//     return firstElem + sumOfRestOfArr;
-//   }
-// }
+function recSumArr(arr){
+  if (arr.length === 0){
+    return 0;
+  } else if (arr.length === 1){
+    return arr[0];
+  } else {
+    const firstElem = arr[0];
+    const restOfArr = arr.slice(1);
+    const sumOfRestOfArr = recSumArr(restOfArr);
+    return firstElem + sumOfRestOfArr;
+  }
+}
 
 /*
 https://goo.gl/rbnCUL
@@ -79,7 +82,7 @@ https://goo.gl/rbnCUL
 //   }
 // }
 
-// console.log(recSumArr([])); //0
-// console.log(recSumArr([4])); //4
-// console.log(recSumArr([1, 2, 3]));// 6
+console.log(recSumArr([])); //0
+console.log(recSumArr([4])); //4
+console.log(recSumArr([1, 2, 3]));// 6
 
