@@ -11,6 +11,11 @@
 * [Part 1](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399aa137d870004733bb1/text)
 * [Part 2](https://learn.fullstackacademy.com/workshop/5ad399aa137d870004733bac/content/5ad399eaba081800048955be/text)
 
+## Project #2 Romance.js
+
+* [Prompt](https://learn.fullstackacademy.com/workshop/5ad39b73b73d520004c190d7/content/5ad39b73b73d520004c190da/text)
+
+
 ## **01 Introduction and tidy code**
 
 ### Lecture
