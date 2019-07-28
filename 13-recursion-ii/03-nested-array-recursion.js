@@ -15,4 +15,4 @@ function logsAnArray(array) {
   }
 }
 
-logsAnArray([1, [2, 3], 4, 5]);
+logsAnArray([1, [2, [3]], 4, 5]);
