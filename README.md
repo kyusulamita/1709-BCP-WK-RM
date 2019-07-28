@@ -15,7 +15,7 @@
 11. [High Order Functions II](#11-high-order-functions-ii)
 12. [Recursion I](#12-recursion-i)
 13. [Recursion II](#13-recursion-ii)
-
+14. [Next Steps](#14-next-steps)
 
 ## Additional Resources
 
@@ -263,7 +263,7 @@
 
 ## **13 Recursion II**
 
-**[Live Lecture]()**
+**[Live Lecture](https://youtu.be/kcl2Tj4EYWg)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
@@ -271,11 +271,23 @@
 
 ### Notes 
 [Full Notes](13-recursion-ii)
-0. [Backwards String Review](13-recursion-ii/00-backward-string-review.js)
-1. [Array Base Case I](13-recursion-ii/01-array-base-case.js)
-2. [Array Base Case II](13-recursion-ii/02-array-base-case-ii.js)
-3. [Nested Array Recursion](13-recursion-ii/03-nested-array-recursion.js)
-4. [Array Base Case /w return](13-recursion-ii/04-array-base-case.js)
-5. [Nested Array Recursion /w return](13-recursion-ii/05-nested-array-recursion.js)
-6. [Object Base Case](13-recursion-ii/06-object-base-case.js)
-7. [Nested Object Recursion](13-recursion-ii/07-nested-object-recursion.js)
+
+1. [Backwards String Review](13-recursion-ii/00-backward-string-review.js)
+2. [Array Base Case I](13-recursion-ii/01-array-base-case.js)
+3. [Array Base Case II](13-recursion-ii/02-array-base-case-ii.js)
+4. [Nested Array Recursion](13-recursion-ii/03-nested-array-recursion.js)
+5. [Array Base Case /w return](13-recursion-ii/04-array-base-case.js)
+6. [Nested Array Recursion /w return](13-recursion-ii/05-nested-array-recursion.js)
+7. [Object Base Case](13-recursion-ii/06-object-base-case.js)
+8. [Nested Object Recursion](13-recursion-ii/07-nested-object-recursion.js)
+9. [Search Party](13-recursion-ii/08-search-party.js)
+
+## **14 Next Steps **
+
+**[Live Lecture](https://youtu.be/3_EITJr9UdY)**
+
+[Next Steps](https://learn.fullstackacademy.com/workshop/5aca5637c6f1bb0004fcdab0/content/5aca5637c6f1bb0004fcdab5/text)
+
+[Assessment I](https://learn.fullstackacademy.com/workshop/59c1bd2dcd409a0004470445/content/59c1cacfcd409a00044705d0/text)
+
+[Assessment II](https://learn.fullstackacademy.com/workshop/59c1bd35b9785f00049c5e0b/content/59c1cb6fb9785f00049c6034/text) 

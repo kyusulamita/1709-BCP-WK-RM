@@ -18,6 +18,9 @@ function sumVals(obj) {
   return sum;
 }
 
+
+let result1 = sumVals({ a: 1, b: { c: 3 }}); // 4
+
 let result = sumVals({
   a: 1,
   b: {
