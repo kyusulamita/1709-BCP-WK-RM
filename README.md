@@ -44,7 +44,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ab7da028b8e9b000477fd36/content/5ab7dc11a468c900045db703/text)
 
-### Notes [Full Notes])(01-tidy-code)
+### Notes [Full Notes](01-tidy-code)
 
 1. [Indenting](01-tidy-code/01-indenting.js)
 2. [Variable Names](01-tidy-code/02-variable-names.js)
@@ -61,7 +61,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
 
-### Notes [Full Notes])(02-loops-and-debugging)
+### Notes [Full Notes](02-loops-and-debugging)
 
 1. [While Loop](02-loops-and-debugging/01-while-loop.js)
 2. [For Loop](02-loops-and-debugging/02-for-loop.js)
@@ -80,7 +80,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
-### Notes [Full Notes])(03-coercion-and-truthiness)
+### Notes [Full Notes](03-coercion-and-truthiness)
 
 1. [Explicit Coercion](03-coercion-and-truthiness/01-explicit-coercion.js)
 2. [Implicit Coercion](03-coercion-and-truthiness/02-implicit-coercion.js)
@@ -102,7 +102,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddba/text)
 
-### Notes [Full Notes])(04-scope)
+### Notes [Full Notes](04-scope)
 
 1. [Global Scope](04-scope/01-global-scope.js)
 2. [Global Scope II](04-scope/02-global-scope-ii.js)
@@ -126,7 +126,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
 
-### Notes [Full Notes])(05-arrays-i)
+### Notes [Full Notes](05-arrays-i)
 
 1. [What is an Array](05-array-i/01-what-is-an-array.js)
 2. [Array Access + Assignment](05-array-i/02-array-accessing.js)
@@ -147,7 +147,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
-### Notes [Full Notes])(06-array-ii)
+### Notes [Full Notes](06-array-ii)
 
 1. [Splice](06-array-ii/01-splice.js)
 2. [Join + Split](06-array-ii/02-join-split.js)
@@ -166,7 +166,7 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
 
-### Notes [Full Notes])(07-objects-i)
+### Notes [Full Notes](07-objects-i)
 
 1. [What is an Object](07-objects-i/01-what-is-an-object.js)
 2. [Create And Access](07-objects-i/02-create-and-access.js)
