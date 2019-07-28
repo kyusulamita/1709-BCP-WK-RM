@@ -310,3 +310,11 @@
 [Solutions](https://codepen.io/FullstackAcademy/pen/dmMOEy?editors=0010) 
 
 ### Notes [Full Notes](13-recursion-ii)
+0. [Backwards String Review](13-recursion-ii/00-backward-string-review.js)
+1. [Array Base Case I](13-recursion-ii/01-array-base-case.js)
+2. [Array Base Case II](13-recursion-ii/02-array-base-case-ii.js)
+3. [Nested Array Recursion](13-recursion-ii/03-nested-array-recursion.js)
+4. [Array Base Case /w return](13-recursion-ii/04-array-base-case.js)
+5. [Nested Array Recursion /w return](13-recursion-ii/05-nested-array-recursion.js)
+6. [Object Base Case](13-recursion-ii/06-object-base-case.js)
+7. [Nested Object Recursion](13-recursion-ii/07-nested-object-recursion.js)
