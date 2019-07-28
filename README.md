@@ -181,13 +181,13 @@
 
 ### Lecture
 
-**[Live Lecture]() N/A**
+**[Live Lecture]()**
 
 ### Workshop + Solution
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62bf/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62c1/text) Not Yet Opened
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62c1/text)
 
 ### Notes
 
@@ -199,3 +199,78 @@
 6. [Passing Complex Values](09-pbv-pbr/06-passing-complex.js)
 7. [Equality Operator](09-pbv-pbr/07-equality-operator.js)
 8. [Arrays Slice](09-pbv-pbr/08-arrays-slice.js)
+
+## **10 High Order Functions I**
+
+### Lecture
+
+**[Live Lecture](https://youtu.be/dBK7-DNxJ2Q)**
+
+### Workshop + Solution
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fb/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text)
+
+### Notes
+
+1. [Values and Arrays](10-high-order-functions-i/01-values-and-arrays.js) 
+2. [Functions And Arrays](10-high-order-functions-i/02-functions-and-arrays.js)      
+3. [Calling functions in array](10-high-order-functions-i/03-calling-functions-in-array.js)    
+4. [Passing functions into functions](10-high-order-functions-i/04-passing-functions-into-functions.js)
+5. [callsWithName Example](10-high-order-functions-i/05-calls-with-name-example.js)  
+6. [callsWithHello Example](10-high-order-functions-i/06-calls-with-hello-example.js)       
+7. [callsWithAll Example](10-high-order-functions-i/07-calls-all-with-example.js)
+8. [calc Example](10-high-order-functions-i/08-calc-example.js)
+9. [.forEach and .map](10-high-order-functions-i/09-forEach-map-array-method.js)    
+10. [mySplice Review](10-high-order-functions-i/10-mySplice-review.js)
+
+## **11 High Order Functions II**
+
+### Lecture
+
+**[Live Lecture](https://youtu.be/inJ8rOkww_8)**
+
+### Workshop + Solution
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text)
+
+### Notes
+
+1. [Functions return values](11-high-order-functions-ii/01-functions-return-values.js)
+2. [Functions return functions](11-high-order-functions-ii/02-functions-return-functions.js)
+3. [Functions return functions II](11-high-order-functions-ii/03-functions-return-invoked-functions.js)
+4. [getGreeter example](11-high-order-functions-ii/04-getGreeter-returning-functions.js)
+5. [Scope Refresher](11-high-order-functions-ii/05-scope-refresher.js)
+6. [What is Closure?](11-high-order-functions-ii/06-what-is-closure.js)
+7. [High Order Function + Params](11-high-order-functions-ii/07-high-order-function-with-params.js)
+8. [Both have params](11-high-order-functions-ii/08-both-have-params.js)
+9. [Both have params II](11-high-order-functions-ii/09-both-have-params-ii.js)
+
+
+## **12 Recursion I**
+
+### Lecture
+
+**[Live Lecture](https://youtu.be/y04bUaHq7wE)**
+
+### Workshop + Solution
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text) 
+
+### Notes
+1. [Call Stack I](12-recursion-i/01-call-stack-i.js)
+2. [Call Stack II](12-recursion-i/02-call-stack-ii.js)
+3. [Iterative Countdown](12-recursion-i/03-iterative-countdown.js)
+4. [Countdown - Just Logging](12-recursion-i/04-countdown-just-logging.js)
+5. [Countdown - Only recursive case](12-recursion-i/05-countdown-only-recursive-case.js)
+6. [Countdown - recursive + base case](12-recursion-i/06-countdown-base-and-recursive-case.js)
+7. [Notes to keep in mind](12-recursion-i/07-important-notes-to-keep-in-mind.js)
+8. [Factorial - base case](12-recursion-i/08-factorial-base-case.js)
+9. [Factorial - simple recursive case](12-recursion-i/09-factorial-simple-recursive-case.js)
+10. [Factorial- solution + takeaways](12-recursion-i/10-factorial-solution-takeaways.js)
+11. [Recursion + arrays](12-recursion-i/11-recursion-and-arrays.js)

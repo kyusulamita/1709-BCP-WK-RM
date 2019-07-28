@@ -1,6 +1,7 @@
 /* 
 
-how do we call all the functions in the array? how have we always    looped through an array of values? 
+how do we call all the functions in the array? 
+how have we always looped through an array of values? 
 
 */
 
