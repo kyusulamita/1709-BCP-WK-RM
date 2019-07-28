@@ -5,7 +5,7 @@ how do we call all the functions in the array? how have we always    looped thro
 */
 
 function happyFunction(person) {
-  console.log(`${person} is  so happy`);
+  console.log(`${person} is so happy`);
 }
 
 function jumpingFunction(person){
@@ -13,7 +13,7 @@ function jumpingFunction(person){
 }
 
 function sleepingFunction(person){
-  console.log(`${person} is  sleeping`)
+  console.log(`${person} is sleeping`)
 }
 
 let amazingArray = [happyFunction, jumpingFunction, sleepingFunction];

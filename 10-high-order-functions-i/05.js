@@ -4,6 +4,7 @@ https://goo.gl/F6D3rA
 */
 function saysHi(name) {
   console.log('Hi', name);
+  //return undefined;
 }
 
 function saysBye(name) {
@@ -14,5 +15,5 @@ function callsWithName(name, sayHiOrBye) {
   sayHiOrBye(name);
 }
 
-callsWithName('Sadie', saysHi);
+callsWithName('Sadie', saysHi);  // saysHi('Sadie')
 callsWithName('Sadie', saysBye); 
